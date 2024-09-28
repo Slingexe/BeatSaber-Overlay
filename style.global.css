@@ -10,25 +10,34 @@
 */
 @font-face {
     font-family: "Roboto-thin";
-    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    src: url("./fonts/roboto_thin.woff") format("woff");
     font-weight: 100;
 }
 @font-face {
     font-family: "Roboto-light";
-    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+    src: url("./fonts/roboto_light.woff") format("woff");
     font-weight: 300;
 }
 @font-face {
     font-family: "Roboto-regular";
-    src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    src: url("./fonts/roboto_regular.woff") format("woff");
     font-weight: 400;
 }
 @font-face {
     font-family: "Roboto-medium";
-    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+    src: url("./fonts/roboto_medium.woff") format("woff");
     font-weight: 500;
 }
-
+@font-face {
+    font-family: "Walkway";
+    src: url("./fonts/walkway_black.woff") format("woff");
+    font-weight: 900;
+}
+@font-face {
+    font-family: "ElasticStretch";
+    src: url("./fonts/elasticStretch.ttf") format("truetype");
+    font-weight: 500;
+}
 /* ==================
    = @font-face end =
    ==================*/
